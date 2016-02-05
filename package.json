@@ -1,0 +1,29 @@
+{
+  "name": "ask-on-exception",
+  "version": "0.0.0",
+  "description": "Ask error message directly on exception",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhysd/ask-on-exception.git"
+  },
+  "keywords": [
+    "ask",
+    "stackoverflow",
+    "google",
+    "error handling",
+    "exception"
+  ],
+  "author": "rhysd <lin90162@yahoo.co.jp>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhysd/ask-on-exception/issues"
+  },
+  "homepage": "https://github.com/rhysd/ask-on-exception#readme",
+  "dependencies": {
+    "open": "0.0.5"
+  }
+}
